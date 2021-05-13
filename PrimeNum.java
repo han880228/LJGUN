@@ -27,7 +27,6 @@ public class LJG {
 			if(inPrimeNum == true)
 			{
 				System.out.println(n + "은 소수이다.");
-System.out.println(n + "은 소수.");
 			}
 			
 			v = 0;
@@ -35,9 +34,6 @@ System.out.println(n + "은 소수.");
 		}
 	
 	
-		
-		
-		
 		
 		
 		
